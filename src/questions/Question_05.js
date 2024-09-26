@@ -21,6 +21,7 @@ export default function Question_04() {
 
   // 入力値に変更が生じたときの処理
   const handleChange = e => {
+    addEventListener
   };
 
   return (
